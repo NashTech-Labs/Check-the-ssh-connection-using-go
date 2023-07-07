@@ -1,6 +1,6 @@
 ## Check the ssh connection is enable to the perticular instance or not using ip and Golang
 
-### In this template, We will check the specific instance or VM's ssh connection means we will check ssh connection is enable to the instance or not. We will use here ip address to check the ssh connection using GoLang. we will use telnet here.
+### In this template, We will check the specific instance or VM's ssh connection means we will check ssh connection is enable to the instance or not. We will use here ip address to check the ssh connection using GoLang. we will use telnet here. You just need to define the ssh port means 22 and the ip of your instance as a global varible.
 
 ### Steps to run the code:-
 Step 1:- You must have install the Golang in your system.
